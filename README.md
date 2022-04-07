@@ -1,4 +1,5 @@
-### Hi there 👋
+## Olá. seja bem-vindo ao o meu perfil  👋
+## Aqui você encontrará informaçoes sobre tecnologia e programação veja meus repositorios
 
 <!--
 **CaioDuarte2002/CaioDuarte2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
