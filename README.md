@@ -1,10 +1,10 @@
 ## Olá. seja bem-vindo ao o meu perfil  👋
 ## Aqui você encontrará informaçoes sobre tecnologia e programação veja meus repositorios
 
-<!--
+
 **CaioDuarte2002/CaioDuarte2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Algumas tcnologias que são desenvolvidas aqui:
+Algumas tecnologias que são desenvolvidas aqui:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,4 +14,4 @@ Algumas tcnologias que são desenvolvidas aqui:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
