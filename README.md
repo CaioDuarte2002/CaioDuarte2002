@@ -6,6 +6,6 @@
 
 Algumas tecnologias que são desenvolvidas aqui:
 
-- Atualmente estou começando com o Básico : HTML e CSS
+- Atualmente estou começando com o Básico : HTML, CSS e Javascript
 - conhecimento em Hardware e Redes 
 
